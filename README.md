@@ -2,9 +2,9 @@
 
 An intelligent web platform that democratizes access to complex bioinformatics analysis by enabling researchers to interact with their data through a natural language chat interface.
 
-<!-- ## Product Overview
+## Product Overview
 
-![Landing Page](assets/landing.png) -->
+[UI](assets/UI.png)
 
 ## My Role
 

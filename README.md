@@ -4,7 +4,7 @@ An intelligent web platform that democratizes access to complex bioinformatics a
 
 ## Product Overview
 
-[UI](assets/UI.png)
+![UI](assets/UI.png)
 
 ## My Role
 
